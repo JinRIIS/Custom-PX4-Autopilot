@@ -1,0 +1,25 @@
+{
+  "name": "px4-autopilot",
+  "version": "1.0.0",
+  "description": "[![Releases](https://img.shields.io/github/release/PX4/PX4-Autopilot.svg)](https://github.com/PX4/PX4-Autopilot/releases) [![DOI](https://zenodo.org/badge/22634/PX4/PX4-Autopilot.svg)](https://zenodo.org/badge/latestdoi/22634/PX4/PX4-Autopilot)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jin Zhu",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinRIIS/Custom-PX4.git"
+  },
+  "keywords": [
+    "PX4"
+  ],
+  "bugs": {
+    "url": "https://github.com/JinRIIS/Custom-PX4/issues"
+  },
+  "homepage": "https://github.com/JinRIIS/Custom-PX4#readme"
+}
